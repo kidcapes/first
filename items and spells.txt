@@ -1,0 +1,84 @@
+Basic Weapons (Any)
+- Club
+
+Martial Weapons (Warrior)
+- Longsword
+- Warhammer (hi pow/lo acc)
+- Spear (hi crit/lo pow)
+
+Talismans (Cleric)
+- Sacred Talisman (Deal small non-elemental dmg)
+- Prayer Talisman (Small free healing to ally)
+- Saint Talisman (Random buff to 1 ally)
+
+Staffs (Sorcerer)
+- Fire Staff (fire dmg, boost fire spells)
+- Ice Staff (ice dmg, boost ice spells)
+- Lightning Staff (lightning dmg, boost lightning spells)
+- Wind Staff (wind dmg, boost wind dmg)
+
+Special Weapons (Warrior, Sorcerer)
+- Magic Sword (physical damage, uses MAT)
+
+Robes (Cleric, Sorcerer)
+- Magic Robe
+- Holy Robe (HP Regen)
+- Occult Robe (+10 MAT)
+- Scholar Robe (+1 Spell Use)
+
+Light Armor (Any)
+- Chainmail
+
+Heavy Armor (Warrior)
+- Plate Armor
+- Magic Plate
+
+Shields (Warrior, Cleric)
+- Iron Shield (+10 DEF)
+- Magic Shield (+10 MDF)
+- Holy Shield (+5 MDF, HP Regen)
+- Ankh Shield (+5 DEF, poison/sleep/mirage immunity)
+
+Martial Shields (Warrior)
+- Counter Shield (Enables counterattacks)
+- Greatshield (+20 DEF, target priority, disables evasion)
+
+Rings (Any)
+- Vitality Ring (+200 MHP)
+- Power Ring (+10 ATK)
+- Steel Ring (+10 DEF)
+- Arcane Ring (+10 MAT)
+- Ward Ring (+10 MDF)
+- Scholar Ring (+1 Spell Use)
+- Critical Ring (+10% Critical Rate)
+
+Charms (Any)
+- Ankh Charm (immunity to poison, sleep & mirage)
+- Volcano Charm (resist fire, burn immunity)
+- Glacial Charm (resist ice, frostbite immunity)
+- Storm Charm (resist lightning, paralysis immunity)
+- Breeze Charm (resist wind)
+
+Incantations (Cleric)
+- Heal
+- Great Heal
+- Cure
+- Revive
+- Phoenix (Auto-Life, automatically revive on death)
+- Aid (HP Regen)
+- Blessing (Max HP buff)
+- Protect (DEF buff)
+- Ward (MDF buff)
+- Shield of God (immortality, 1 turn)
+
+Spells (Sorcerer)
+- Fire (inflict Burn, DoT)
+- Ice (inflict Frostbite, lower DEF/MDF)
+- Lightning (inflict Paralysis, lower ATK/MAT)
+- Wind (high dmg)
+- Megido (very high dmg, non-elemental)
+- Focus (MAT buff, self)
+- Poison (DoT)
+- Sleep (Unable to move, remove on hit)
+- Mirage/Blind (Lower accuracy)
+- Death (Instant Death)
